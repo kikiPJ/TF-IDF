@@ -1,4 +1,3 @@
 # TF-IDF
 
-Nama : Kiki Purnama Juwairi
-Nim : 15523234
+Nama : Kiki Purnama Juwairi (15523234)
